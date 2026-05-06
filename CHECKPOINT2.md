@@ -133,7 +133,7 @@ On configure ça au niveau de la table de routage, donc sur le routeur.
 |----------------------|---------------|----------------------|-------------------|
 |                      |               |                      |                   |
 
----
+# A PARTIR DICI JE NAI PAS REPONDU
 
 ## Exercice 3 — Pratique sur infrastructure client/serveur
 
