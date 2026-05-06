@@ -132,9 +132,10 @@ On configure ça au niveau de la table de routage, donc sur le routeur.
 | Réseau de destination | Masque (CIDR) | Adresse de passerelle | Adresse de sortie |
 |----------------------|---------------|----------------------|-------------------|
 |                      |               |                      |                   |
-
+-------------------------------------------------
 # A PARTIR DICI JE NAI PAS REPONDU
-
+-------------------------------------------------
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ## Exercice 3 — Pratique sur infrastructure client/serveur
 
 ### Q.3.1
